@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "axios": "1.14.0",
-    "retry-axios": "^4.0.1",
+    "retry-axios": "amndeep7/retry-axios#add_d_cts_file_packagejsonfork",
     "typescript": "^6.0.2"
   },
   "engines": {
